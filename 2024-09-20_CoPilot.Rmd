@@ -1,0 +1,46 @@
+---
+title: "2024-09-20_CodeReview_coPilot"
+output: html_document
+date: "2024-09-18"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Heatmap
+
+```{r}
+
+# list the path for the csv files in all sub-folder in GSEA_Results folder
+files <- list.files(path = "GSEA_Results", pattern = "*.csv", recursive = TRUE, full.names = TRUE)
+
+# Import the csv files
+data <- lapply(files, read.csv)
+
+# list the folder name in GSEA_Results folder
+folder_name <- list.dirs(path = "GSEA_Results", full.names = FALSE, recursive = FALSE)
+
+# Name the list of data with the folder name
+names(data) <- folder_name
+
+# Remove empty table
+data <- data[sapply(data, nrow) > 0]
+
+# turn into one data frame
+data <- do.call(rbind, data)
+
+# turn rownames into a column
+data <- data.frame(rownames(data), data)
+
+# rename rownames.data to comparison
+colnames(data)[1] <- "comparison"
+
+# Remove decimal point in comparison column
+data$comparison <- gsub("\\.", "_", data$comparison)
+
+
+
+```
+
+
