@@ -1,0 +1,101 @@
+"","Description","pvalue","p.adjust"
+"GO:0006278","RNA-templated DNA biosynthetic process",1e-10,4.28175182481752e-09
+"GO:0042273","ribosomal large subunit biogenesis",1e-10,4.28175182481752e-09
+"GO:0000959","mitochondrial RNA metabolic process",1e-10,4.28175182481752e-09
+"GO:0032206","positive regulation of telomere maintenance",1e-10,4.28175182481752e-09
+"GO:0007004","telomere maintenance via telomerase",1e-10,4.28175182481752e-09
+"GO:0010257","NADH dehydrogenase complex assembly",1e-10,4.28175182481752e-09
+"GO:0032981","mitochondrial respiratory chain complex I assembly",1e-10,4.28175182481752e-09
+"GO:0007080","mitotic metaphase chromosome alignment",1e-10,4.28175182481752e-09
+"GO:0006303","double-strand break repair via nonhomologous end joining",1e-10,4.28175182481752e-09
+"GO:0006414","translational elongation",1e-10,4.28175182481752e-09
+"GO:0002183","cytoplasmic translational initiation",1e-10,4.28175182481752e-09
+"GO:0032210","regulation of telomere maintenance via telomerase",1e-10,4.28175182481752e-09
+"GO:0031124","mRNA 3'-end processing",1e-10,4.28175182481752e-09
+"GO:0097352","autophagosome maturation",1e-10,4.28175182481752e-09
+"GO:0006903","vesicle targeting",1e-10,4.28175182481752e-09
+"GO:0000460","maturation of 5.8S rRNA",1e-10,4.28175182481752e-09
+"GO:0010965","regulation of mitotic sister chromatid separation",1e-10,4.28175182481752e-09
+"GO:0060260","regulation of transcription initiation by RNA polymerase II",1e-10,4.28175182481752e-09
+"GO:0030490","maturation of SSU-rRNA",1e-10,4.28175182481752e-09
+"GO:1902750","negative regulation of cell cycle G2/M phase transition",1e-10,4.28175182481752e-09
+"GO:0010972","negative regulation of G2/M transition of mitotic cell cycle",1e-10,4.28175182481752e-09
+"GO:0036297","interstrand cross-link repair",1e-10,4.28175182481752e-09
+"GO:1904356","regulation of telomere maintenance via telomere lengthening",1e-10,4.28175182481752e-09
+"GO:0007062","sister chromatid cohesion",1e-10,4.28175182481752e-09
+"GO:0022616","DNA strand elongation",1e-10,4.28175182481752e-09
+"GO:0032506","cytokinetic process",1e-10,4.28175182481752e-09
+"GO:0051306","mitotic sister chromatid separation",1e-10,4.28175182481752e-09
+"GO:0042149","cellular response to glucose starvation",1e-10,4.28175182481752e-09
+"GO:0042776","proton motive force-driven mitochondrial ATP synthesis",1e-10,4.28175182481752e-09
+"GO:0044786","cell cycle DNA replication",1e-10,4.28175182481752e-09
+"GO:0006120","mitochondrial electron transport, NADH to ubiquinone",1e-10,4.28175182481752e-09
+"GO:0007007","inner mitochondrial membrane organization",1e-10,4.28175182481752e-09
+"GO:1905818","regulation of chromosome separation",1e-10,4.28175182481752e-09
+"GO:0033047","regulation of mitotic sister chromatid segregation",1e-10,4.28175182481752e-09
+"GO:0008608","attachment of spindle microtubules to kinetochore",1e-10,4.28175182481752e-09
+"GO:0090151","establishment of protein localization to mitochondrial membrane",1e-10,4.28175182481752e-09
+"GO:0006890","retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",1e-10,4.28175182481752e-09
+"GO:0015986","proton motive force-driven ATP synthesis",1e-10,4.28175182481752e-09
+"GO:0141137","positive regulation of gene expression, epigenetic",1e-10,4.28175182481752e-09
+"GO:0045839","negative regulation of mitotic nuclear division",1e-10,4.28175182481752e-09
+"GO:0032786","positive regulation of DNA-templated transcription, elongation",1e-10,4.28175182481752e-09
+"GO:0046605","regulation of centrosome cycle",1e-10,4.28175182481752e-09
+"GO:0006301","postreplication repair",1e-10,4.28175182481752e-09
+"GO:0090114","COPII-coated vesicle budding",1e-10,4.28175182481752e-09
+"GO:0051123","RNA polymerase II preinitiation complex assembly",1e-10,4.28175182481752e-09
+"GO:0032790","ribosome disassembly",1e-10,4.28175182481752e-09
+"GO:0033260","nuclear DNA replication",1e-10,4.28175182481752e-09
+"GO:0044818","mitotic G2/M transition checkpoint",1e-10,4.28175182481752e-09
+"GO:0060261","positive regulation of transcription initiation by RNA polymerase II",1e-10,4.28175182481752e-09
+"GO:0017004","cytochrome complex assembly",1e-10,4.28175182481752e-09
+"GO:0002717","positive regulation of natural killer cell mediated immunity",1e-10,4.28175182481752e-09
+"GO:0006984","ER-nucleus signaling pathway",1e-10,4.28175182481752e-09
+"GO:0016226","iron-sulfur cluster assembly",1e-10,4.28175182481752e-09
+"GO:0031163","metallo-sulfur cluster assembly",1e-10,4.28175182481752e-09
+"GO:0006901","vesicle coating",1e-10,4.28175182481752e-09
+"GO:0006406","mRNA export from nucleus",1e-10,4.28175182481752e-09
+"GO:0006383","transcription by RNA polymerase III",1e-10,4.28175182481752e-09
+"GO:2000144","positive regulation of DNA-templated transcription initiation",1e-10,4.28175182481752e-09
+"GO:0002507","tolerance induction",1e-10,4.28175182481752e-09
+"GO:0090329","regulation of DNA-templated DNA replication",1e-10,4.28175182481752e-09
+"GO:0032007","negative regulation of TOR signaling",1e-10,4.28175182481752e-09
+"GO:0000288","nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",1e-10,4.28175182481752e-09
+"GO:0045815","transcription initiation-coupled chromatin remodeling",1e-10,4.28175182481752e-09
+"GO:0007094","mitotic spindle assembly checkpoint signaling",1e-10,4.28175182481752e-09
+"GO:0071173","spindle assembly checkpoint signaling",1e-10,4.28175182481752e-09
+"GO:0071174","mitotic spindle checkpoint signaling",1e-10,4.28175182481752e-09
+"GO:0051784","negative regulation of nuclear division",1e-10,4.28175182481752e-09
+"GO:0032527","protein exit from endoplasmic reticulum",1e-10,4.28175182481752e-09
+"GO:0016445","somatic diversification of immunoglobulins",1e-10,4.28175182481752e-09
+"GO:0033046","negative regulation of sister chromatid segregation",1e-10,4.28175182481752e-09
+"GO:0033048","negative regulation of mitotic sister chromatid segregation",1e-10,4.28175182481752e-09
+"GO:0045841","negative regulation of mitotic metaphase/anaphase transition",1e-10,4.28175182481752e-09
+"GO:2000816","negative regulation of mitotic sister chromatid separation",1e-10,4.28175182481752e-09
+"GO:0048199","vesicle targeting, to, from or within Golgi",1e-10,4.28175182481752e-09
+"GO:0051298","centrosome duplication",1e-10,4.28175182481752e-09
+"GO:0036037","CD8-positive, alpha-beta T cell activation",1e-10,4.28175182481752e-09
+"GO:0045954","positive regulation of natural killer cell mediated cytotoxicity",1e-10,4.28175182481752e-09
+"GO:0045005","DNA-templated DNA replication maintenance of fidelity",1e-10,4.28175182481752e-09
+"GO:0043247","telomere maintenance in response to DNA damage",1e-10,4.28175182481752e-09
+"GO:0090148","membrane fission",1e-10,4.28175182481752e-09
+"GO:0042255","ribosome assembly",1e-10,4.28175182481752e-09
+"GO:0002675","positive regulation of acute inflammatory response",1e-10,4.28175182481752e-09
+"GO:0032968","positive regulation of transcription elongation by RNA polymerase II",1e-10,4.28175182481752e-09
+"GO:0006284","base-excision repair",1e-10,4.28175182481752e-09
+"GO:0071479","cellular response to ionizing radiation",1e-10,4.28175182481752e-09
+"GO:0006998","nuclear envelope organization",1e-10,4.28175182481752e-09
+"GO:0016447","somatic recombination of immunoglobulin gene segments",1e-10,4.28175182481752e-09
+"GO:0006270","DNA replication initiation",1e-10,4.28175182481752e-09
+"GO:0045738","negative regulation of DNA repair",1e-10,4.28175182481752e-09
+"GO:0000966","RNA 5'-end processing",1e-10,4.28175182481752e-09
+"GO:0006779","porphyrin-containing compound biosynthetic process",1e-10,4.28175182481752e-09
+"GO:0033014","tetrapyrrole biosynthetic process",1e-10,4.28175182481752e-09
+"GO:1904263","positive regulation of TORC1 signaling",1e-10,4.28175182481752e-09
+"GO:0006783","heme biosynthetic process",1e-10,4.28175182481752e-09
+"GO:0030970","retrograde protein transport, ER to cytosol",1e-10,4.28175182481752e-09
+"GO:1903513","endoplasmic reticulum to cytosol transport",1e-10,4.28175182481752e-09
+"GO:0006360","transcription by RNA polymerase I",1e-10,4.28175182481752e-09
+"GO:0000466","maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",1e-10,4.28175182481752e-09
+"GO:0030488","tRNA methylation",1e-10,4.28175182481752e-09
+"GO:2000780","negative regulation of double-strand break repair",1e-10,4.28175182481752e-09

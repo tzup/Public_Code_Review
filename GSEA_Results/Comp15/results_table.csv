@@ -1,0 +1,62 @@
+"","Description","pvalue","p.adjust"
+"GO:0019885","antigen processing and presentation of endogenous peptide antigen via MHC class I",2.40785080411364e-10,1.50514753765144e-06
+"GO:0002428","antigen processing and presentation of peptide antigen via MHC class Ib",9.74812230264381e-09,3.04677562569132e-05
+"GO:0002476","antigen processing and presentation of endogenous peptide antigen via MHC class Ib",8.94516174588737e-08,0.000139790515183855
+"GO:0002484","antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway",8.94516174588737e-08,0.000139790515183855
+"GO:0001916","positive regulation of T cell mediated cytotoxicity",3.31354047516278e-07,0.000414258830204851
+"GO:0048002","antigen processing and presentation of peptide antigen",4.18521717460611e-07,0.00043602987597438
+"GO:0002478","antigen processing and presentation of exogenous peptide antigen",9.18612333227848e-07,0.000820320813572469
+"GO:0046640","regulation of alpha-beta T cell proliferation",2.41142630410088e-06,0.00168424907900925
+"GO:0051256","mitotic spindle midzone assembly",2.42493068486374e-06,0.00168424907900925
+"GO:0002475","antigen processing and presentation via MHC class Ib",3.22884497255155e-06,0.00201835099234197
+"GO:0019884","antigen processing and presentation of exogenous antigen",3.91886703304829e-06,0.00204140315196541
+"GO:0019882","antigen processing and presentation",3.63653796897043e-06,0.00204140315196541
+"GO:0016045","detection of bacterium",4.64703668896048e-06,0.00207490188162085
+"GO:0043380","regulation of memory T cell differentiation",4.31974010820625e-06,0.00207490188162085
+"GO:0002474","antigen processing and presentation of peptide antigen via MHC class I",5.35837688435047e-06,0.00223301426027165
+"GO:0045953","negative regulation of natural killer cell mediated cytotoxicity",6.94275751717624e-06,0.00271244857749179
+"GO:0002483","antigen processing and presentation of endogenous peptide antigen",9.46571971937259e-06,0.00348060082151753
+"GO:2001185","regulation of CD8-positive, alpha-beta T cell activation",1.13329043372628e-05,0.00393566583401276
+"GO:0001910","regulation of leukocyte mediated cytotoxicity",1.49849728254532e-05,0.00473350240286464
+"GO:0002716","negative regulation of natural killer cell mediated immunity",1.54446714714708e-05,0.00473350240286464
+"GO:0002361","CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation",1.59020237498252e-05,0.00473350240286464
+"GO:0002456","T cell mediated immunity",2.138409742303e-05,0.00607599968142547
+"GO:0019731","antibacterial humoral response",2.3130650473474e-05,0.00628650852650808
+"GO:0002715","regulation of natural killer cell mediated immunity",2.83765148997467e-05,0.00682236902455064
+"GO:0002704","negative regulation of leukocyte mediated immunity",2.73361757583042e-05,0.00682236902455064
+"GO:0046641","positive regulation of alpha-beta T cell proliferation",2.77133228425634e-05,0.00682236902455064
+"GO:0050852","T cell receptor signaling pathway",4.29364537892096e-05,0.00900032035341889
+"GO:0002399","MHC class II protein complex assembly",4.28340780506081e-05,0.00900032035341889
+"GO:0002503","peptide antigen assembly with MHC class II protein complex",4.28340780506081e-05,0.00900032035341889
+"GO:0000022","mitotic spindle elongation",4.31946265561617e-05,0.00900032035341889
+"GO:0043379","memory T cell differentiation",4.62176286053562e-05,0.00931956117458327
+"GO:0002486","antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent",5.54045223616732e-05,0.0108229271650881
+"GO:0046634","regulation of alpha-beta T cell activation",6.38636411499829e-05,0.0120973218432892
+"GO:0002711","positive regulation of T cell mediated immunity",9.46661642553075e-05,0.0174046527282331
+"GO:0007159","leukocyte cell-cell adhesion",0.000112242124695406,0.0200464434705996
+"GO:0090715","immunological memory formation process",0.000130137123866738,0.0225968655914162
+"GO:0032609","type II interferon production",0.000141988618902409,0.0233571278094462
+"GO:0032649","regulation of type II interferon production",0.000141988618902409,0.0233571278094462
+"GO:0050870","positive regulation of T cell activation",0.000157575555495143,0.0252565332666702
+"GO:0036037","CD8-positive, alpha-beta T cell activation",0.000165562970217874,0.0258733531707982
+"GO:0051251","positive regulation of lymphocyte activation",0.000187049651419577,0.0285182285615555
+"GO:0046635","positive regulation of alpha-beta T cell activation",0.000214900619293218,0.0319843755048073
+"GO:1903039","positive regulation of leukocyte cell-cell adhesion",0.000239240934292754,0.0347789553549769
+"GO:0009595","detection of biotic stimulus",0.000249531253339017,0.0354504514686863
+"GO:0002832","negative regulation of response to biotic stimulus",0.000267115668817435,0.0371053343506175
+"GO:0002369","T cell cytokine production",0.000338147587495373,0.0398822748949732
+"GO:0002724","regulation of T cell cytokine production",0.000338147587495373,0.0398822748949732
+"GO:0002720","positive regulation of cytokine production involved in immune response",0.000326800520077328,0.0398822748949732
+"GO:0045589","regulation of regulatory T cell differentiation",0.000312721472070128,0.0398822748949732
+"GO:0002396","MHC protein complex assembly",0.000313795043926452,0.0398822748949732
+"GO:0002501","peptide antigen assembly with MHC protein complex",0.000313795043926452,0.0398822748949732
+"GO:0098543","detection of other organism",0.000334204041770792,0.0398822748949732
+"GO:0051231","spindle elongation",0.000304319910466136,0.0398822748949732
+"GO:0019886","antigen processing and presentation of exogenous peptide antigen via MHC class II",0.000363666959869987,0.0420978178916165
+"GO:0031342","negative regulation of cell killing",0.000378117095442206,0.0429747266110769
+"GO:0045824","negative regulation of innate immune response",0.000399929623366916,0.044642144208332
+"GO:0002696","positive regulation of leukocyte activation",0.000412401665039535,0.045226715932669
+"GO:0050867","positive regulation of cell activation",0.000430629181413067,0.0464114312588462
+"GO:0001912","positive regulation of leukocyte mediated cytotoxicity",0.000446530244275104,0.0465210092827279
+"GO:0002449","lymphocyte mediated immunity",0.000444299823474529,0.0465210092827279
+"GO:0022409","positive regulation of cell-cell adhesion",0.000457970469226499,0.0469307115268008

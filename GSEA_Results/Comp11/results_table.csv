@@ -1,0 +1,101 @@
+"","Description","pvalue","p.adjust"
+"GO:0042273","ribosomal large subunit biogenesis",1e-10,2.57583333333333e-08
+"GO:0002183","cytoplasmic translational initiation",1e-10,2.57583333333333e-08
+"GO:0030490","maturation of SSU-rRNA",1e-10,2.57583333333333e-08
+"GO:0042776","proton motive force-driven mitochondrial ATP synthesis",1e-10,2.57583333333333e-08
+"GO:0010257","NADH dehydrogenase complex assembly",1e-10,2.57583333333333e-08
+"GO:0032981","mitochondrial respiratory chain complex I assembly",1e-10,2.57583333333333e-08
+"GO:0015986","proton motive force-driven ATP synthesis",1e-10,2.57583333333333e-08
+"GO:0000959","mitochondrial RNA metabolic process",1e-10,2.57583333333333e-08
+"GO:0000470","maturation of LSU-rRNA",1e-10,2.57583333333333e-08
+"GO:0043039","tRNA aminoacylation",1e-10,2.57583333333333e-08
+"GO:0043038","amino acid activation",1e-10,2.57583333333333e-08
+"GO:0007007","inner mitochondrial membrane organization",1e-10,2.57583333333333e-08
+"GO:0042255","ribosome assembly",1e-10,2.57583333333333e-08
+"GO:0006414","translational elongation",1e-10,2.57583333333333e-08
+"GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",1e-10,2.57583333333333e-08
+"GO:0000460","maturation of 5.8S rRNA",1e-10,2.57583333333333e-08
+"GO:0006120","mitochondrial electron transport, NADH to ubiquinone",1e-10,2.57583333333333e-08
+"GO:0031124","mRNA 3'-end processing",1e-10,2.57583333333333e-08
+"GO:0017004","cytochrome complex assembly",1e-10,2.57583333333333e-08
+"GO:0097352","autophagosome maturation",1e-10,2.57583333333333e-08
+"GO:0000966","RNA 5'-end processing",1e-10,2.57583333333333e-08
+"GO:0062125","regulation of mitochondrial gene expression",1e-10,2.57583333333333e-08
+"GO:0034471","ncRNA 5'-end processing",1e-10,2.57583333333333e-08
+"GO:0032206","positive regulation of telomere maintenance",1e-10,2.57583333333333e-08
+"GO:0006418","tRNA aminoacylation for protein translation",1.52852971079872e-10,3.77974826886308e-08
+"GO:0099116","tRNA 5'-end processing",1.76434642261241e-10,4.19507291714998e-08
+"GO:2000232","regulation of rRNA processing",2.3745614801461e-10,5.43686632231969e-08
+"GO:0016226","iron-sulfur cluster assembly",2.96742518332532e-10,6.325731890799e-08
+"GO:0031163","metallo-sulfur cluster assembly",2.96742518332532e-10,6.325731890799e-08
+"GO:0032819","positive regulation of natural killer cell proliferation",3.17146313705079e-10,6.53532837108266e-08
+"GO:0097494","regulation of vesicle size",4.91050925750665e-10,9.79250588061487e-08
+"GO:0008535","respiratory chain complex IV assembly",6.56592797797854e-10,1.26845521124573e-07
+"GO:0090148","membrane fission",9.64490997696431e-10,1.80681313568465e-07
+"GO:0032790","ribosome disassembly",9.98368614523829e-10,1.81526905146656e-07
+"GO:0045048","protein insertion into ER membrane",1.08644150055649e-09,1.91896610184006e-07
+"GO:0030488","tRNA methylation",1.43449561023304e-09,2.4633477395724e-07
+"GO:1904874","positive regulation of telomerase RNA localization to Cajal body",2.01186102234669e-09,3.36143914598574e-07
+"GO:0000463","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",2.1864215494901e-09,3.55696263656522e-07
+"GO:0032817","regulation of natural killer cell proliferation",2.36547785720259e-09,3.74958567005805e-07
+"GO:0036257","multivesicular body organization",2.69019613060893e-09,4.1576981198561e-07
+"GO:0045324","late endosome to vacuole transport",3.60849335927236e-09,5.44090388951749e-07
+"GO:0002863","positive regulation of inflammatory response to antigenic stimulus",4.17554692041707e-09,6.14600739571865e-07
+"GO:0002883","regulation of hypersensitivity",4.57653465296672e-09,6.57956679642797e-07
+"GO:0032815","negative regulation of natural killer cell activation",5.17531715609981e-09,7.27132060432023e-07
+"GO:0033617","mitochondrial cytochrome c oxidase assembly",5.89056924115422e-09,8.09233312195897e-07
+"GO:0036258","multivesicular body assembly",6.07433262450175e-09,8.16337484449343e-07
+"GO:0006903","vesicle targeting",6.55825027111866e-09,8.62619216511821e-07
+"GO:0070129","regulation of mitochondrial translation",7.80759162608437e-09,1.00555273817612e-06
+"GO:0051036","regulation of endosome size",9.91401378080907e-09,1.25078435087677e-06
+"GO:0006998","nuclear envelope organization",1.0594245011046e-08,1.30987245316573e-06
+"GO:0006122","mitochondrial electron transport, ubiquinol to cytochrome c",1.14752457246829e-08,1.39097978568608e-06
+"GO:0061077","chaperone-mediated protein folding",1.59357731160686e-08,1.89451825776031e-06
+"GO:1904872","regulation of telomerase RNA localization to Cajal body",1.77919924161622e-08,2.07528485125877e-06
+"GO:0002717","positive regulation of natural killer cell mediated immunity",1.88404471584601e-08,2.15688230247408e-06
+"GO:0002675","positive regulation of acute inflammatory response",2.10116398517309e-08,2.36170831933455e-06
+"GO:0006479","protein methylation",2.3129998805726e-08,2.50859039678944e-06
+"GO:0008213","protein alkylation",2.3129998805726e-08,2.50859039678944e-06
+"GO:0045454","cell redox homeostasis",2.64827168122767e-08,2.82269233333612e-06
+"GO:0032633","interleukin-4 production",2.74929636195994e-08,2.83269168493939e-06
+"GO:0032673","regulation of interleukin-4 production",2.74929636195994e-08,2.83269168493939e-06
+"GO:0001682","tRNA 5'-leader removal",2.93396083091605e-08,2.97340096011852e-06
+"GO:0031468","nuclear membrane reassembly",3.40376729786479e-08,3.34001419609526e-06
+"GO:0045116","protein neddylation",3.37409643187852e-08,3.34001419609526e-06
+"GO:0019081","viral translation",3.5561391039281e-08,3.43500811570055e-06
+"GO:0000154","rRNA modification",3.78481058823732e-08,3.49219388902733e-06
+"GO:0006890","retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",3.6891230144773e-08,3.49219388902733e-06
+"GO:0000027","ribosomal large subunit assembly",3.77576012668492e-08,3.49219388902733e-06
+"GO:0043248","proteasome assembly",4.88781400613908e-08,4.44359796852232e-06
+"GO:0032736","positive regulation of interleukin-13 production",5.30748081450552e-08,4.75519512974973e-06
+"GO:0140112","extracellular vesicle biogenesis",6.13862313906979e-08,5.42128117796135e-06
+"GO:0043247","telomere maintenance in response to DNA damage",6.56494610023849e-08,5.71612630868653e-06
+"GO:0090151","establishment of protein localization to mitochondrial membrane",6.79015486645775e-08,5.8301024145058e-06
+"GO:0006390","mitochondrial transcription",7.10695429319378e-08,6.01851937541424e-06
+"GO:0000466","maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",8.59846683519416e-08,7.18320567232031e-06
+"GO:0001522","pseudouridine synthesis",9.92629474427858e-08,8.18191388121736e-06
+"GO:0006743","ubiquinone metabolic process",1.37424812030998e-07,1.11784235259951e-05
+"GO:1904292","regulation of ERAD pathway",1.57044905741419e-07,1.26084624323825e-05
+"GO:0042407","cristae formation",2.05514041901112e-07,1.62883052183677e-05
+"GO:0090670","RNA localization to Cajal body",2.61141301686819e-07,1.96875064271697e-05
+"GO:0090671","telomerase RNA localization to Cajal body",2.61141301686819e-07,1.96875064271697e-05
+"GO:0090672","telomerase RNA localization",2.61141301686819e-07,1.96875064271697e-05
+"GO:0090685","RNA localization to nucleus",2.61141301686819e-07,1.96875064271697e-05
+"GO:0002476","antigen processing and presentation of endogenous peptide antigen via MHC class Ib",3.02891925637542e-07,2.229140338442e-05
+"GO:0002484","antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway",3.02891925637542e-07,2.229140338442e-05
+"GO:0006415","translational termination",3.13677640361604e-07,2.28135902672404e-05
+"GO:0006378","mRNA polyadenylation",3.27061412206911e-07,2.35103912821293e-05
+"GO:0170036","import into the mitochondrion",3.42978322793603e-07,2.43711723162075e-05
+"GO:0048489","synaptic vesicle transport",4.0391026683015e-07,2.8374696244818e-05
+"GO:0000479","endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",4.50325498261386e-07,3.12799126994594e-05
+"GO:2001185","regulation of CD8-positive, alpha-beta T cell activation",5.03741736402765e-07,3.45340307066871e-05
+"GO:0006383","transcription by RNA polymerase III",5.08346294776533e-07,3.45340307066871e-05
+"GO:0007042","lysosomal lumen acidification",5.35057476897707e-07,3.59535361106699e-05
+"GO:1904869","regulation of protein localization to Cajal body",5.79764327811317e-07,3.81287561120166e-05
+"GO:1904871","positive regulation of protein localization to Cajal body",5.79764327811317e-07,3.81287561120166e-05
+"GO:0071985","multivesicular body sorting pathway",7.47160697415573e-07,4.86204992781376e-05
+"GO:0009225","nucleotide-sugar metabolic process",8.07526837990509e-07,5.20013636714305e-05
+"GO:0002888","positive regulation of myeloid leukocyte mediated immunity",8.27504548383048e-07,5.22003379398368e-05
+"GO:0006879","intracellular iron ion homeostasis",8.26534671364736e-07,5.22003379398368e-05
+"GO:0032509","endosome transport via multivesicular body sorting pathway",9.2443854417454e-07,5.77260513140101e-05
+"GO:0046633","alpha-beta T cell proliferation",9.69449972193499e-07,5.99313972810021e-05

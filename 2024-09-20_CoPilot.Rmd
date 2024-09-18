@@ -8,7 +8,7 @@ date: "2024-09-18"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Heatmap
+# Heatmap V1
 
 ```{r}
 
@@ -62,4 +62,139 @@ p = SeuratExtend::Heatmap(data_matrix, xlab = "GOTerm", ylab = "p.adjust", main 
 print(p)
 ```
 
+# Heatmap V2
+
+Improvement:
+
+* Use more `dplyr`
+* Use `ggplot2` paradigm
+
+```{r}
+
+# list the path for the csv files in all sub-folder in GSEA_Results folder
+files <- list.files(path = "GSEA_Results", pattern = "*.csv", recursive = TRUE, full.names = TRUE)
+
+# list the folder name in GSEA_Results folder
+folder_name <- list.dirs(path = "GSEA_Results", full.names = FALSE, recursive = FALSE)
+
+# Import the csv files
+data <- lapply(files, read.csv)
+
+# name the list of data with the folder name
+names(data) <- folder_name
+
+# remove empty table
+data <- data[sapply(data, function(x) nrow(x) > 0)]
+
+# Combine all table into a data frame and add a column for the folder name
+data <- do.call(rbind, Map(cbind, data, folder = names(data)))
+
+data |> 
+  # Rename X to GOTerm
+  dplyr::rename(GOTerm = X) |> 
+  # Rename folder to comparison
+  dplyr::rename(comparison = folder) |> 
+  # Select GOTerm, p.adjust and comparison columns
+  dplyr::select(GOTerm, p.adjust, comparison) |> 
+  # pivot wider the data using GOTerm as the id column
+  tidyr::pivot_wider(names_from = comparison, values_from = p.adjust) |> 
+  # Turn GOTerm into row names
+  tibble::column_to_rownames(var = "GOTerm") |> 
+  # Convert to matrix
+  as.matrix() |>
+  # Use SeuratExtend::Heatmap to plot the heatmap
+  SeuratExtend::Heatmap(xlab = "GOTerm", ylab = "p.adjust", main = "Heatmap of p.adjust values for each folder", xaxis = "y", yaxis = "x") +
+  # Remove the y-axis labels
+  ggplot2::theme(axis.text.y = ggplot2::element_blank(), axis.ticks.y = ggplot2::element_blank()) +
+  # Change color: high to red, low to white
+  ggplot2::scale_fill_gradient(low = "red", high = "white") +
+  # Add a title
+  ggplot2::ggtitle("Heatmap of p.adjust values for each folder")
+  
+
+  
+  
+
+```
+
+# shiny V1
+
+```{r}
+data |> 
+  # Rename X to GOTerm
+  dplyr::rename(GOTerm = X) |> 
+  # Rename folder to comparison
+  dplyr::rename(comparison = folder) |> 
+  # Select GOTerm, p.adjust and comparison columns
+  dplyr::select(GOTerm, p.adjust, comparison) |> 
+  # filter using p.adjust
+  dplyr::filter(p.adjust < 0.05) |> 
+  # count the number of significant p.adjust for each comparison
+  dplyr::count(comparison) |> 
+  # Plot bar chart arrange based on n
+  ggplot2::ggplot(ggplot2::aes(x = reorder(comparison, n), y = n)) +
+  ggplot2::geom_bar(stat = "identity") +
+  # rotate x-axis label by 45 degree
+  ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 45, hjust = 1))
+
+
+
+```
+```{r}
+
+# build a shiny app to plot a bar chart adjustable by the p.adjust value
+
+library(shiny)
+
+# Define UI for application that draws a histogram
+ui <- fluidPage(
+  
+  # Application title
+  titlePanel("Bar chart of significant p.adjust values"),
+  
+  # Sidebar with a slider input for the p.adjust value
+  sidebarLayout(
+    sidebarPanel(
+      sliderInput("p_adjust",
+                  "Select p.adjust value:",
+                  min = 0, max = 0.05, value = 0.001)
+    ),
+    
+    # Show a plot of the significant p.adjust values
+    mainPanel(
+      plotOutput("bar_chart")
+    )
+  )
+)
+
+# Define server logic required to draw a histogram
+server <- function(input, output) {
+  
+  output$bar_chart <- renderPlot({
+    data |> 
+      # Rename X to GOTerm
+      dplyr::rename(GOTerm = X) |> 
+      # Rename folder to comparison
+      dplyr::rename(comparison = folder) |> 
+      # Select GOTerm, p.adjust and comparison columns
+      dplyr::select(GOTerm, p.adjust, comparison) |> 
+      # filter using p.adjust
+      dplyr::filter(p.adjust < input$p_adjust) |> 
+      # count the number of significant p.adjust for each comparison
+      dplyr::count(comparison) |> 
+      # Plot bar chart arrange based on n
+      ggplot2::ggplot(ggplot2::aes(x = reorder(comparison, n), y = n)) +
+      ggplot2::geom_bar(stat = "identity") +
+      # rotate x-axis label by 45 degree
+      ggplot2::theme(axis.text.x = ggplot2::element_text(angle = 45, hjust = 1))
+  })
+}
+
+# Run the application
+shinyApp(ui = ui, server = server)
+
+
+
+
+```
 

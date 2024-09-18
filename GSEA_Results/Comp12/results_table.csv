@@ -1,0 +1,21 @@
+"","Description","pvalue","p.adjust"
+"GO:0031055","chromatin remodeling at centromere",9.22924035828177e-09,2.87398544756894e-05
+"GO:0034080","CENP-A containing chromatin assembly",9.22924035828177e-09,2.87398544756894e-05
+"GO:0033260","nuclear DNA replication",1.10173491500082e-07,0.000157933574584815
+"GO:0044786","cell cycle DNA replication",1.06419424970124e-07,0.000157933574584815
+"GO:0030865","cortical cytoskeleton organization",1.26793171631997e-07,0.000157933574584815
+"GO:0007020","microtubule nucleation",2.13889878293419e-07,0.000222017693668569
+"GO:0014037","Schwann cell differentiation",3.27668612590901e-07,0.000291531445602304
+"GO:0006271","DNA strand elongation involved in DNA replication",8.93858307824044e-07,0.000695868692641019
+"GO:0045039","protein insertion into mitochondrial inner membrane",1.3907974365146e-06,0.000937113287027366
+"GO:0030866","cortical actin cytoskeleton organization",1.50467772483521e-06,0.000937113287027366
+"GO:0034508","centromere complex assembly",2.49493998140873e-06,0.00141258965492851
+"GO:0007076","mitotic chromosome condensation",3.14947196619841e-06,0.00150883933888336
+"GO:0000727","double-strand break repair via break-induced replication",2.96086872712139e-06,0.00150883933888336
+"GO:0010968","regulation of microtubule nucleation",1.07269420596263e-05,0.00477195679623948
+"GO:0000289","nuclear-transcribed mRNA poly(A) tail shortening",2.58809262099239e-05,0.0107457605623604
+"GO:0007097","nuclear migration",4.48079514627804e-05,0.0174414951068873
+"GO:0014044","Schwann cell development",5.17974063085501e-05,0.01897613214645
+"GO:0022613","ribonucleoprotein complex biogenesis",5.58452904027748e-05,0.0193224704793601
+"GO:0070316","regulation of G0 to G1 transition",6.92989105395971e-05,0.0227154534126637
+"GO:0006268","DNA unwinding involved in DNA replication",0.000126228759778663,0.0393076357950757

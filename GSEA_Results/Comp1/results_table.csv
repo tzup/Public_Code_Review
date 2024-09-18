@@ -1,0 +1,10 @@
+"","Description","pvalue","p.adjust"
+"GO:0048002","antigen processing and presentation of peptide antigen",7.55778981338026e-07,0.00170909554516077
+"GO:0019884","antigen processing and presentation of exogenous antigen",5.55275663216117e-07,0.00170909554516077
+"GO:0030490","maturation of SSU-rRNA",8.20497141219765e-07,0.00170909554516077
+"GO:0002478","antigen processing and presentation of exogenous peptide antigen",5.16666098129656e-06,0.00804384778871775
+"GO:0019886","antigen processing and presentation of exogenous peptide antigen via MHC class II",6.43610800825552e-06,0.00804384778871775
+"GO:0019882","antigen processing and presentation",1.77325230291991e-05,0.0184684227349109
+"GO:0006285","base-excision repair, AP site formation",3.51884690905968e-05,0.0314132490495913
+"GO:0002396","MHC protein complex assembly",5.22406361419395e-05,0.0362724150278866
+"GO:0002501","peptide antigen assembly with MHC protein complex",5.22406361419395e-05,0.0362724150278866

@@ -1,0 +1,50 @@
+"","Description","pvalue","p.adjust"
+"GO:0044786","cell cycle DNA replication",5.24315344165496e-10,1.63848545051718e-06
+"GO:0090281","negative regulation of calcium ion import",4.79369354707298e-10,1.63848545051718e-06
+"GO:0051127","positive regulation of actin nucleation",1.09111287313206e-09,2.27315181902512e-06
+"GO:0033260","nuclear DNA replication",1.83422487201398e-09,2.86597636252184e-06
+"GO:0090329","regulation of DNA-templated DNA replication",7.72846290113084e-09,8.05048218867796e-06
+"GO:1902969","mitotic DNA replication",6.80484257798167e-09,8.05048218867796e-06
+"GO:0006271","DNA strand elongation involved in DNA replication",2.8686619349853e-08,2.56130529909402e-05
+"GO:0046782","regulation of viral transcription",6.33777495317297e-08,4.78622971563992e-05
+"GO:0015937","coenzyme A biosynthetic process",6.89217079052149e-08,4.78622971563992e-05
+"GO:0000727","double-strand break repair via break-induced replication",1.17495353300953e-07,7.34345958130959e-05
+"GO:0015936","coenzyme A metabolic process",1.42411808243785e-06,0.000796440046301606
+"GO:0045069","regulation of viral genome replication",1.52916488889908e-06,0.000796440046301606
+"GO:0006270","DNA replication initiation",6.46327433251699e-06,0.00310734342909471
+"GO:0090279","regulation of calcium ion import",7.35448342345388e-06,0.00328325152832762
+"GO:0002820","negative regulation of adaptive immune response",1.67891455352159e-05,0.00699547730633995
+"GO:0008608","attachment of spindle microtubules to kinetochore",2.03856060371716e-05,0.00796312735827017
+"GO:0051988","regulation of attachment of spindle microtubules to kinetochore",2.36859078495984e-05,0.00822427355888834
+"GO:0006268","DNA unwinding involved in DNA replication",2.36859078495984e-05,0.00822427355888834
+"GO:0014037","Schwann cell differentiation",2.72725544223703e-05,0.00897123500735867
+"GO:0022613","ribonucleoprotein complex biogenesis",4.46202127682067e-05,0.013279825228633
+"GO:1904029","regulation of cyclin-dependent protein kinase activity",4.37765166185758e-05,0.013279825228633
+"GO:0031055","chromatin remodeling at centromere",6.03024309669448e-05,0.015984881830751
+"GO:0034080","CENP-A containing chromatin assembly",6.03024309669448e-05,0.015984881830751
+"GO:0000079","regulation of cyclin-dependent protein serine/threonine kinase activity",6.13819462300839e-05,0.015984881830751
+"GO:0033046","negative regulation of sister chromatid segregation",8.10886590443864e-05,0.0163485199686263
+"GO:0033048","negative regulation of mitotic sister chromatid segregation",8.10886590443864e-05,0.0163485199686263
+"GO:0045841","negative regulation of mitotic metaphase/anaphase transition",8.10886590443864e-05,0.0163485199686263
+"GO:2000816","negative regulation of mitotic sister chromatid separation",8.10886590443864e-05,0.0163485199686263
+"GO:0051985","negative regulation of chromosome segregation",7.94206693778065e-05,0.0163485199686263
+"GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle",7.94206693778065e-05,0.0163485199686263
+"GO:1905819","negative regulation of chromosome separation",7.94206693778065e-05,0.0163485199686263
+"GO:0050792","regulation of viral process",0.000111225186756449,0.021723669288369
+"GO:0010332","response to gamma radiation",0.000165947327829361,0.0314294181495003
+"GO:0032729","positive regulation of type II interferon production",0.000231796635751564,0.0345778805609066
+"GO:0007094","mitotic spindle assembly checkpoint signaling",0.000232363357369292,0.0345778805609066
+"GO:0071173","spindle assembly checkpoint signaling",0.000232363357369292,0.0345778805609066
+"GO:0071174","mitotic spindle checkpoint signaling",0.000232363357369292,0.0345778805609066
+"GO:0030174","regulation of DNA-templated DNA replication initiation",0.000195879081247646,0.0345778805609066
+"GO:0034501","protein localization to kinetochore",0.000220173701326112,0.0345778805609066
+"GO:1903083","protein localization to condensed chromosome",0.000220173701326112,0.0345778805609066
+"GO:0051784","negative regulation of nuclear division",0.000199355751526894,0.0345778805609066
+"GO:0034508","centromere complex assembly",0.000219631479046025,0.0345778805609066
+"GO:1900087","positive regulation of G1/S transition of mitotic cell cycle",0.000238208846747409,0.0346233788877048
+"GO:0060623","regulation of chromosome condensation",0.000270131929512023,0.0375183235433365
+"GO:0031577","spindle checkpoint signaling",0.000269676564382013,0.0375183235433365
+"GO:0051299","centrosome separation",0.000320449197238535,0.0435392931030618
+"GO:0048525","negative regulation of viral process",0.000350707574158378,0.0456650487185388
+"GO:2000630","positive regulation of miRNA metabolic process",0.000347699163071043,0.0456650487185388
+"GO:0032732","positive regulation of interleukin-1 production",0.000388657178967724,0.0495736197662914

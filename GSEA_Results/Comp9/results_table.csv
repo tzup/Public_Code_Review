@@ -1,0 +1,101 @@
+"","Description","pvalue","p.adjust"
+"GO:0002476","antigen processing and presentation of endogenous peptide antigen via MHC class Ib",1e-10,1.56175e-07
+"GO:0002484","antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway",1e-10,1.56175e-07
+"GO:0032817","regulation of natural killer cell proliferation",1e-10,1.56175e-07
+"GO:0002863","positive regulation of inflammatory response to antigenic stimulus",1e-10,1.56175e-07
+"GO:0001911","negative regulation of leukocyte mediated cytotoxicity",3.05124949445219e-08,1.55534058164019e-05
+"GO:0032753","positive regulation of interleukin-4 production",3.49105809315422e-08,1.55534058164019e-05
+"GO:0002438","acute inflammatory response to antigenic stimulus",3.5460342586644e-08,1.55534058164019e-05
+"GO:0002716","negative regulation of natural killer cell mediated immunity",2.8360768374136e-08,1.55534058164019e-05
+"GO:0002888","positive regulation of myeloid leukocyte mediated immunity",3.17302603692908e-08,1.55534058164019e-05
+"GO:0032616","interleukin-13 production",3.73461000874064e-08,1.55534058164019e-05
+"GO:0032656","regulation of interleukin-13 production",3.73461000874064e-08,1.55534058164019e-05
+"GO:0032819","positive regulation of natural killer cell proliferation",1.46920791750874e-08,1.55534058164019e-05
+"GO:0032815","negative regulation of natural killer cell activation",1.86753990892787e-08,1.55534058164019e-05
+"GO:0002883","regulation of hypersensitivity",1.89946289730696e-08,1.55534058164019e-05
+"GO:2000109","regulation of macrophage apoptotic process",2.34638582619452e-08,1.55534058164019e-05
+"GO:0002714","positive regulation of B cell mediated immunity",1.44581468962309e-07,5.25420017521639e-05
+"GO:0002891","positive regulation of immunoglobulin mediated immune response",1.44581468962309e-07,5.25420017521639e-05
+"GO:0032736","positive regulation of interleukin-13 production",1.51393633990548e-07,5.25420017521639e-05
+"GO:0045954","positive regulation of natural killer cell mediated cytotoxicity",2.55050318287734e-07,7.58713970639748e-05
+"GO:0002399","MHC class II protein complex assembly",2.50730023217783e-07,7.58713970639748e-05
+"GO:0002503","peptide antigen assembly with MHC class II protein complex",2.50730023217783e-07,7.58713970639748e-05
+"GO:0036037","CD8-positive, alpha-beta T cell activation",4.1916632700424e-07,0.00011902418385434
+"GO:0090281","negative regulation of calcium ion import",5.33290944442425e-07,0.000144846457823123
+"GO:0071888","macrophage apoptotic process",6.2711499753437e-07,0.000163232807899884
+"GO:0001787","natural killer cell proliferation",6.70063645430717e-07,0.000167435503720228
+"GO:0002524","hypersensitivity",1.21110411582887e-06,0.000270205978985106
+"GO:0002486","antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent",1.21110411582887e-06,0.000270205978985106
+"GO:0002864","regulation of acute inflammatory response to antigenic stimulus",1.21110411582887e-06,0.000270205978985106
+"GO:0032816","positive regulation of natural killer cell activation",1.4015287522699e-06,0.000301908624670003
+"GO:0000470","maturation of LSU-rRNA",1.54178321731513e-06,0.000318719406826203
+"GO:0042269","regulation of natural killer cell mediated cytotoxicity",1.58160742942409e-06,0.000318719406826203
+"GO:0019884","antigen processing and presentation of exogenous antigen",1.63346290278079e-06,0.000318882586052237
+"GO:0002861","regulation of inflammatory response to antigenic stimulus",1.97485996844514e-06,0.000340283676195379
+"GO:0019885","antigen processing and presentation of endogenous peptide antigen via MHC class I",2.00682454532652e-06,0.000340283676195379
+"GO:0045953","negative regulation of natural killer cell mediated cytotoxicity",1.90450795592875e-06,0.000340283676195379
+"GO:2001185","regulation of CD8-positive, alpha-beta T cell activation",2.01544677752986e-06,0.000340283676195379
+"GO:0002756","MyD88-independent toll-like receptor signaling pathway",1.9557580800172e-06,0.000340283676195379
+"GO:0002755","MyD88-dependent toll-like receptor signaling pathway",2.34826417575032e-06,0.000376143751433647
+"GO:0002428","antigen processing and presentation of peptide antigen via MHC class Ib",2.33253022592288e-06,0.000376143751433647
+"GO:0002474","antigen processing and presentation of peptide antigen via MHC class I",2.74227052569951e-06,0.000428274099351122
+"GO:0002483","antigen processing and presentation of endogenous peptide antigen",4.29276591532221e-06,0.000649412054779563
+"GO:0002475","antigen processing and presentation via MHC class Ib",4.36614475760231e-06,0.000649412054779563
+"GO:0046641","positive regulation of alpha-beta T cell proliferation",4.58628145305212e-06,0.000666290703191083
+"GO:0048715","negative regulation of oligodendrocyte differentiation",4.8065106567908e-06,0.00068241527438573
+"GO:0032727","positive regulation of interferon-alpha production",6.20062257006125e-06,0.000860784204337169
+"GO:0015937","coenzyme A biosynthetic process",7.01326014459909e-06,0.000952431220071968
+"GO:0001914","regulation of T cell mediated cytotoxicity",8.90273840541797e-06,0.00117262930525236
+"GO:0035455","response to interferon-alpha",9.01011792094014e-06,0.00117262930525236
+"GO:0002675","positive regulation of acute inflammatory response",9.25735481988954e-06,0.00118021827673163
+"GO:0002504","antigen processing and presentation of peptide or polysaccharide antigen via MHC class II",9.67816633238852e-06,0.00120919010156862
+"GO:0060340","positive regulation of type I interferon-mediated signaling pathway",1.09798922794963e-05,0.00134492915823555
+"GO:0045655","regulation of monocyte differentiation",1.14259333510644e-05,0.00137265010854037
+"GO:0033033","negative regulation of myeloid cell apoptotic process",1.24737335119624e-05,0.00146966708210688
+"GO:0002396","MHC protein complex assembly",1.29392811775058e-05,0.00146966708210688
+"GO:0002501","peptide antigen assembly with MHC protein complex",1.29392811775058e-05,0.00146966708210688
+"GO:0002717","positive regulation of natural killer cell mediated immunity",2.68499794518294e-05,0.00299521110063532
+"GO:0015936","coenzyme A metabolic process",2.86340312426486e-05,0.00313818935390922
+"GO:0032633","interleukin-4 production",3.58797439755125e-05,0.0036756139885361
+"GO:0032673","regulation of interleukin-4 production",3.58797439755125e-05,0.0036756139885361
+"GO:0031342","negative regulation of cell killing",3.77868926285865e-05,0.0036756139885361
+"GO:0030224","monocyte differentiation",3.6969759223686e-05,0.0036756139885361
+"GO:0060338","regulation of type I interferon-mediated signaling pathway",3.77768001074785e-05,0.0036756139885361
+"GO:0070664","negative regulation of leukocyte proliferation",3.45176757726459e-05,0.0036756139885361
+"GO:0006925","inflammatory cell apoptotic process",3.69542175918914e-05,0.0036756139885361
+"GO:0039530","MDA-5 signaling pathway",3.8244742957395e-05,0.0036756139885361
+"GO:0035881","amacrine cell differentiation",3.94204835515727e-05,0.00373120849616174
+"GO:0002577","regulation of antigen processing and presentation",4.67682109448712e-05,0.00436061214585986
+"GO:0032814","regulation of natural killer cell activation",4.93877396517588e-05,0.00448186503130351
+"GO:0019886","antigen processing and presentation of exogenous peptide antigen via MHC class II",4.9503551650383e-05,0.00448186503130351
+"GO:0075522","IRES-dependent viral translational initiation",5.21546084091069e-05,0.00465442626759558
+"GO:0002507","tolerance induction",5.38532920548136e-05,0.00467252104814473
+"GO:0000463","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",5.35820986128784e-05,0.00467252104814473
+"GO:0019883","antigen processing and presentation of endogenous antigen",6.38396663228138e-05,0.00546310130847421
+"GO:0003266","regulation of secondary heart field cardioblast proliferation",6.66040401996574e-05,0.0056226410692873
+"GO:0034121","regulation of toll-like receptor signaling pathway",7.66448983193254e-05,0.00614483796158895
+"GO:0033032","regulation of myeloid cell apoptotic process",7.67244054752583e-05,0.00614483796158895
+"GO:0032607","interferon-alpha production",7.66448983193254e-05,0.00614483796158895
+"GO:0032647","regulation of interferon-alpha production",7.66448983193254e-05,0.00614483796158895
+"GO:0044827","modulation by host of viral genome replication",9.28021569821946e-05,0.00733841866668063
+"GO:0021984","adenohypophysis development",0.00012003202195471,0.00937300051438839
+"GO:2000107","negative regulation of leukocyte apoptotic process",0.000138136455271512,0.0103968486274836
+"GO:0045686","negative regulation of glial cell differentiation",0.000134978589129435,0.0103968486274836
+"GO:0021895","cerebral cortex neuron differentiation",0.0001373675288913,0.0103968486274836
+"GO:0048711","positive regulation of astrocyte differentiation",0.00014050907979146,0.0104495264459196
+"GO:0046640","regulation of alpha-beta T cell proliferation",0.000146014314424052,0.0104844991058282
+"GO:0046633","alpha-beta T cell proliferation",0.000145719037751809,0.0104844991058282
+"GO:0002673","regulation of acute inflammatory response",0.000145719037751809,0.0104844991058282
+"GO:0048002","antigen processing and presentation of peptide antigen",0.000148953032690116,0.0105043164936162
+"GO:0002495","antigen processing and presentation of peptide antigen via MHC class II",0.000149653300453312,0.0105043164936162
+"GO:1905456","regulation of lymphoid progenitor cell differentiation",0.000159243090717794,0.0110532398634895
+"GO:0002283","neutrophil activation involved in immune response",0.000213617775385121,0.0146645081629764
+"GO:0002715","regulation of natural killer cell mediated immunity",0.000232449447211883,0.0157838227905721
+"GO:0001709","cell fate determination",0.000238496230777169,0.0160202790716664
+"GO:0021575","hindbrain morphogenesis",0.00024165507086483,0.0160597790180063
+"GO:0001913","T cell mediated cytotoxicity",0.000249601364243449,0.0162422887753003
+"GO:0032728","positive regulation of interferon-beta production",0.000248009721306462,0.0162422887753003
+"GO:0002707","negative regulation of lymphocyte mediated immunity",0.000267920234084957,0.0165712643794924
+"GO:0032608","interferon-beta production",0.000267920234084957,0.0165712643794924
+"GO:0032648","regulation of interferon-beta production",0.000267920234084957,0.0165712643794924
+"GO:0021983","pituitary gland development",0.000261650509389229,0.0165712643794924
