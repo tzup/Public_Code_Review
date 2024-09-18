@@ -21,26 +21,45 @@ data <- lapply(files, read.csv)
 # list the folder name in GSEA_Results folder
 folder_name <- list.dirs(path = "GSEA_Results", full.names = FALSE, recursive = FALSE)
 
-# Name the list of data with the folder name
+# name the list of data with the folder name
 names(data) <- folder_name
 
-# Remove empty table
-data <- data[sapply(data, nrow) > 0]
+# remove empty table
+data <- data[sapply(data, function(x) nrow(x) > 0)]
 
-# turn into one data frame
-data <- do.call(rbind, data)
+# Combine all table into a data frame and add a column for the folder name
+data <- do.call(rbind, Map(cbind, data, folder = names(data)))
 
-# turn rownames into a column
-data <- data.frame(rownames(data), data)
+# rename X as GOTerm
+colnames(data)[1] <- "GOTerm"
 
-# rename rownames.data to comparison
-colnames(data)[1] <- "comparison"
+# Select GOTerm, p.adjust and folder columns
+data <- data[, c("GOTerm", "p.adjust", "folder")]
 
-# Remove decimal point in comparison column
-data$comparison <- gsub("\\.", "_", data$comparison)
+# pivot wider the data using GOTerm as the id column
+data_wide <- tidyr::pivot_wider(data, names_from = folder, values_from = p.adjust)
 
+# Convert from tibble to data frame
+data_wide <- as.data.frame(data_wide)
 
+# Convert GOTerm column to row names
+rownames(data_wide) <- data_wide$GOTerm
 
+# Remove the GOTerm column
+data_wide <- data_wide[, -1]
+
+# convert to matrix
+data_matrix <- as.matrix(data_wide)
+
+# Use SeuratExtend::Heatmap to plot the heatmap
+# Turn X-axis into Y-axis
+p = SeuratExtend::Heatmap(data_matrix, xlab = "GOTerm", ylab = "p.adjust", main = "Heatmap of p.adjust values for each folder", xaxis = "y", yaxis = "x") +
+  theme(axis.text.y = element_blank(), axis.ticks.y = element_blank()) +
+  scale_fill_gradient(low = "red", high = "white") +
+  # add a title
+  ggtitle("Heatmap of p.adjust values for each folder")
+
+print(p)
 ```
 
 
